@@ -27,8 +27,6 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 
 📫 Email: <a href="mailto:moenupa@outlook.com" target="_blank">moenupa@outlook.com</a>
 
-![lang_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moenupa&hide=html,css&layout=compact&show_icons=true&hide_border=true)
-
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
