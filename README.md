@@ -32,7 +32,7 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 ```text
 🎮 变量 - Variables                 🕘 115 hrs 22 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
-💻 Wallpaper Engine                 🕘 56 hrs 46 mins
+💻 Wallpaper Engine                 🕘 65 hrs 51 mins
 🎮 Bloons TD 6                      🕘 52 hrs 25 mins
 🎮 Besiege                          🕘 16 hrs 44 mins
 ```
