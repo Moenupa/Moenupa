@@ -31,8 +31,8 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 变量 - Variables                 🕘 115 hrs 22 mins
+💻 Wallpaper Engine                 🕘 89 hrs 30 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
-💻 Wallpaper Engine                 🕘 78 hrs 53 mins
 🎮 Bloons TD 6                      🕘 52 hrs 25 mins
 🎮 Besiege                          🕘 16 hrs 44 mins
 ```
