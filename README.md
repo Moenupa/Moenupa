@@ -32,7 +32,7 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 ```text
 🎮 Dyson Sphere Program             🕘 156 hrs 0 mins
 💻 Wallpaper Engine                 🕘 143 hrs 0 mins
-🎮 变量 - Variables                 🕘 118 hrs 57 mins
+🎮 变量 - Variables                 🕘 119 hrs 28 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
 🎮 Bloons TD 6                      🕘 52 hrs 25 mins
 ```
