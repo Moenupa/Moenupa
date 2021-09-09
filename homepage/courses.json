@@ -1,0 +1,146 @@
+{
+  "other":[
+    {
+      "tags":[
+        "CC1C15P"
+      ],
+      "name":"Splendours of Imperial China",
+      "icon":"mdi-book"
+    },
+    {
+      "tags":[
+        "ME1D01"
+      ],
+      "icon":"mdi-tools",
+      "name":"Engineering and Environmental Management"
+    },
+    {
+      "name":"Tomorrow's Leaders",
+      "tags":[
+        "APSS1L01"
+      ],
+      "icon":"mdi-account-group"
+    },
+    {
+      "tags":[
+        "ELC1013"
+      ],
+      "icon":"mdi-format-letter-case",
+      "name":"English for University Studies"
+    },
+    {
+      "icon":"mdi-format-annotation-plus",
+      "tags":[
+        "ELC2011"
+      ],
+      "name":"Advanced English Reading and Writing Skills"
+    },
+    {
+      "tags":[
+        "AMA1104"
+      ],
+      "icon":"mdi-progress-question",
+      "name":"Introductory Probability"
+    },
+    {
+      "tags":[
+        "AMA1130"
+      ],
+      "name":"Calculus for Engineers",
+      "icon":"mdi-chart-bell-curve"
+    },
+    {
+      "name":"Mathematics Ⅰ",
+      "icon":"mdi-vector-curve",
+      "tags":[
+        "AMA2111"
+      ]
+    }
+  ],
+  "computing":[
+    {
+      "icon":"mdi-code-greater-than",
+      "name":"Computational Thinking",
+      "tags":[
+        "COMP1002"
+      ]
+    },
+    {
+      "icon":"mdi-account-group",
+      "name":"Freshmen Seminar",
+      "tags":[
+        "COMP1901"
+      ]
+    },
+    {
+      "icon":"mdi-currency-sign",
+      "name":"Programming Fundamentals",
+      "tags":[
+        "COMP1011"
+      ]
+    },
+    {
+      "icon":"mdi-laptop",
+      "name":"Introduction to Computer Systems",
+      "tags":[
+        "COMP1411"
+      ]
+    },
+    {
+      "icon":"mdi-chart-scatter-plot",
+      "name":"Introduction to Data Analysis",
+      "tags":[
+        "COMP1433"
+      ]
+    },
+    {
+      "icon":"mdi-iframe-array",
+      "name":"Data Structures",
+      "tags":[
+        "COMP2011"
+      ]
+    },
+    {
+      "icon":"mdi-code-braces-box",
+      "name":"Object-Oriented Programming",
+      "tags":[
+        "COMP2021"
+      ]
+    },
+    {
+      "icon":"mdi-database",
+      "name":"Database Systems",
+      "tags":[
+        "COMP2411"
+      ]
+    },
+    {
+      "icon":"mdi-network",
+      "name":"Computer Networking",
+      "tags":[
+        "COMP2322"
+      ]
+    },
+    {
+      "icon":"mdi-cpu-64-bit",
+      "name":"Computer Organization",
+      "tags":[
+        "COMP2421"
+      ]
+    },
+    {
+      "icon":"mdi-linux",
+      "name":"Operating Systems",
+      "tags":[
+        "COMP2432"
+      ]
+    },
+    {
+      "icon":"mdi-code-not-equal-variant",
+      "name":"Web Application",
+      "tags":[
+        "COMP3421"
+      ]
+    }
+  ]
+}

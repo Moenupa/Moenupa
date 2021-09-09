@@ -1,0 +1,35 @@
+[
+  {
+    "icon":"mdi-music-box",
+    "name":"Music",
+    "tags":[
+      "Pure",
+      "Piano"
+    ]
+  },
+  {
+    "icon":"mdi-chart-box",
+    "name":"Machine Learning",
+    "tags":[
+      
+    ]
+  },
+  {
+    "icon":"mdi-gamepad-circle",
+    "name":"Gaming",
+    "tags":[
+      "WOT",
+      "DSP",
+      "Steam"
+    ]
+  },
+  {
+    "icon":"mdi-web-box",
+    "name":"Front-End",
+    "tags":[
+      "Vue.js",
+      "Nuxt.js",
+      "Vuetify.js"
+    ]
+  }
+]

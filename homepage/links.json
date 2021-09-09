@@ -1,0 +1,39 @@
+[
+  {
+    "name":"homepage",
+    "description":"My personal homepage. Contains nearly everything you'll need to know about me.",
+    "link":"/",
+    "extras":[
+      {
+        "icon":"mdi-github",
+        "name":"github",
+        "link":"https://github.com/Moenupa/homepage"
+      }
+    ]
+  },
+  {
+    "name":"about",
+    "description":"Page for information and acknowledgement.",
+    "link":"/about",
+    "extras":[
+      {
+        "icon":"mdi-github",
+        "name":"github",
+        "link":"https://github.com/Moenupa/homepage"
+      }
+    ]
+  },
+  {
+    "name":"blog",
+    "disabled":true,
+    "description":"A blog of my own study record. [in development]",
+    "link":"/blog",
+    "extras":[
+      {
+        "icon":"mdi-github",
+        "name":"github",
+        "link":"https://github.com/Moenupa/blog"
+      }
+    ]
+  }
+]
