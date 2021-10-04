@@ -25,7 +25,7 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 
 💬 Facebook/Twitter/Wechat: Moenupa, QQ: 1434835308
 
-📫 Email: <a href="mailto:moenupa@outlook.com" target="_blank">moenupa@outlook.com</a>
+📫 Email: <a href="mailto:moenupa@outlook.com" target="_blank">moenupa@outlook.com</a>, <a href="mailto:moenupa@gmail.com" target="_blank">moenupa@gmail.com</a>
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
