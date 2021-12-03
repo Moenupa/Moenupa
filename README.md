@@ -31,9 +31,9 @@ Great to meet you! I am a year-2 Student from Hong Kong PolyU, studing Computing
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Dyson Sphere Program             🕘 379 hrs 19 mins
-💻 Wallpaper Engine                 🕘 147 hrs 56 mins
+💻 Wallpaper Engine                 🕘 149 hrs 45 mins
 🎮 变量 - Variables                 🕘 119 hrs 29 mins
-🎮 Sid Meier's Civilization VI      🕘 92 hrs 9 mins
+🎮 Sid Meier's Civilization VI      🕘 110 hrs 22 mins
 🎮 Bloons TD 6                      🕘 68 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
