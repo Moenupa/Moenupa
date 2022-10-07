@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Great to meet you! I am a year-3 Student from Hong Kong PolyU, studing Computing for major.
+Great to meet you! I am a year-4 Student from Hong Kong PolyU, major in computing, minor in mathematics.
 
-🌱 I’m currently learning Linux, and working on Raspberry Pi on Manjaro
+🌱 I’m currently working on Machine Learning, and doing video quality enhancement for my final year project.
 
 🔭 Highlights of past projects: <a href="https://github.com/Moenupa/Pigeon" target="_blank">Themeing</a>, <a href="https://github.com/Moenupa/MindTabs" target="_blank">Chrome Extension</a>
 
