@@ -19,7 +19,7 @@ Great to meet you! I am a year-4 Student from Hong Kong PolyU, major in computin
 
 🌱 I’m currently working on Machine Learning, and doing video quality enhancement for my final year project.
 
-🔭 Highlights of past projects: <a href="https://github.com/Moenupa/Pigeon" target="_blank">Themeing</a>, <a href="https://github.com/Moenupa/MindTabs" target="_blank">Chrome Extension</a>
+🔭 Highlights of past projects: [Wechat Crawler](https://github.com/Moenupa/WeChatMP-Crawler), [Interactive Multiplication Table for kids](https://codepen.io/moenupa/pen/wveZQYv)
 
 🌐 You can find more about me at my personal webpage <a href="https://Moenupa.github.io" target="_blank">https://Moenupa.github.io</a>
 
