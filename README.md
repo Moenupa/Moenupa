@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Great to meet you! I am a year-4 Student from Hong Kong PolyU, major in computing, minor in mathematics.
+Great to meet you! I am a MS student in Rochester, major in CS.
 
-🌱 I’m currently working on Machine Learning, and doing video quality enhancement for my final year project.
-
-🔭 Highlights of past projects: [Wechat Crawler](https://github.com/Moenupa/WeChatMP-Crawler), [Interactive Multiplication Table for kids](https://codepen.io/moenupa/pen/wveZQYv)
-
-🌐 You can find more about me at my personal webpage <a href="https://Moenupa.github.io" target="_blank">https://Moenupa.github.io</a>
-
-💬 Facebook/Twitter/Wechat: Moenupa, QQ: 1434835308
-
-📫 Email: <a href="mailto:moenupa@outlook.com" target="_blank">moenupa@outlook.com</a>, <a href="mailto:moenupa@gmail.com" target="_blank">moenupa@gmail.com</a>
+📫 Email: moenupa [dot] gmail [at] com
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
