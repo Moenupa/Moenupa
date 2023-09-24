@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 Great to meet you! I am a MS student in Rochester, major in CS.
 
-📫 Email: moenupa [dot] gmail [at] com
-
 <!-- steam-box start -->
+<!--
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Dyson Sphere Program             🕘 414 hrs 6 mins
@@ -28,5 +27,6 @@ Great to meet you! I am a MS student in Rochester, major in CS.
 🎮 Sid Meier's Civilization VI      🕘 110 hrs 22 mins
 🎮 Bloons TD 6                      🕘 68 hrs 36 mins
 ```
+-->
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
